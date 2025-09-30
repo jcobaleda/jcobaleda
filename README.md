@@ -3,19 +3,31 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack Developer
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts,dotnet,spring,laravel,cs,dart,nestjs,py,php,fastapi,flask,js,jquery,nuxtjs,r,vue,vuetify" height="50" />
+</div>
+
+### 🧰 Tech Stack Server
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,graphql,gcp,git,jenkins,redis,kali,linux,nginx,postman,powershell,nodejs,npm" height="50" />
+</div>
+
+### 🧰 Tech Stack DataBase
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="50" />
 </div>
 
 ---
 
 ### 💼 About Me
 
-- 🚀 Developer con más de 20 años de experiencia en **JavaScript, Vue, Laravel, SQL y DevOps**  
-- 🌱 Actualmente aprendiendo **Rust** y **Go**  
-- 🔒 Profesor y apasionado por la **ciberseguridad**  
+- 🚀 Developer con más de 6 años de experiencia en **JavaScript, Vue, Laravel, SQL y DevOps**  
+- 🌱 Actualmente aprendiendo **Flutter**, **Microservcios + NestJS** ,**.NET** y **Automatizaciones con IA** 
+- 🔒 Profesor y apasionado por la **ciberseguridad** y los **patrones de diseño**
 - 🎯 Interesado en proyectos que combinen **tecnología, educación y salud**  
 - 📫 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/jonathan-cobaleda-cabrera-a49b91196)  
 
@@ -50,9 +62,9 @@
 
 ### 🎯 Extras
 
-- 🌎 Idiomas: Español nativo, Inglés intermedio-avanzado  
-- 🕹️ Pasiones: videojuegos retro, Power Rangers ⚡ y enseñanza  
-- 🛡️ Seguridad: más de 10 años formando en **ciberseguridad**  
+- 🌎 Idiomas: Español nativo, Portugues intermedio-avanzado  
+- 🕹️ Pasiones: videojuegos, Codificar, Enseñar y Baloncesto  
+- 🛡️ Seguridad: Estudiante de la especialidad en **ciberseguridad**  
 
 ---
 
@@ -63,4 +75,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcobaleda/jcobaleda/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcobaleda/jcobaleda/output/pacman-contribution-graph.svg">
 </picture>
+
 
