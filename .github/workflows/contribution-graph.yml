@@ -1,26 +1,28 @@
-name: Generate Pac-Man Contribution Graph
+name: Generate Contribution Graphs
 
 on:
   schedule:
     - cron: "0 0 * * *"   # Ejecuta todos los días a medianoche (UTC)
-  workflow_dispatch:       # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:       # Permite ejecutarlo manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Generar el gráfico tipo Pac-Man
-      - name: Generate Graph
+      # Generar gráficos Pac-Man y Snake
+      - name: Generate Pac-Man & Snake Graphs
         uses: Platane/snk@v3
         with:
           github_user_name: jcobaleda
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg
+            dist/snake-contribution-graph.svg
+            dist/snake-contribution-graph-dark.svg
 
       # Publicar en la rama "output"
-      - name: Push Graph to GitHub Pages Branch
+      - name: Push Graphs to GitHub Pages Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
